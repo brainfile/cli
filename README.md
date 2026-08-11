@@ -1,3 +1,5 @@
+BANNER TEST
+
 # @brainfile/cli
 
 CLI for the [Brainfile](https://brainfile.md) task coordination protocol. Manage tasks, contracts, and ADRs from your terminal. Includes a TUI board view and an MCP server for AI agent integration.
