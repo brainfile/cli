@@ -1,4 +1,5 @@
-BANNER TEST
+> ⚠️ **Moved.** brainfile now lives in one repo: <https://github.com/1broseidon/brainfile> — install with `npm i -g brainfile`. This repository is archived and read-only.
+
 
 # @brainfile/cli
 
